@@ -1,4 +1,5 @@
-.cats-imag {
-    width: 100px;
-    height: 100px;
+a:hover {
+    color: red;
+    font-size: 25px;
+    list-style-type: none;
 }
