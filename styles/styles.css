@@ -1,10 +1,25 @@
-a:hover {
-    color: red;
-    font-size: 25px;
-    list-style-type: none;
-}
-
-h1 {
-    color: red;
-    text-align: center;
-}
+        a:hover {
+            color: red;
+            font-size: 25px;
+            list-style-type: none;
+        }
+        
+        ul {
+            padding: 10px;
+            list-style-type: none;
+            text-align: center;
+            margin: 0;
+        }
+        
+        li {
+            border: 3px solid rgb(0, 109, 128);
+            padding: 10px;
+            display: inline-block;
+            font-size: 20px;
+            background-color: yellow;
+        }
+        
+        h1 {
+            color: red;
+            text-align: center;
+        }
